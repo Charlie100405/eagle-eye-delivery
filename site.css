@@ -1,0 +1,19 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 45px;
+}
+h2 {
+  color: Red;
+  text-align: left;
+  font-size: 45px;
+}
+p1 {
+  font-size: 25px;
+}
+body {
+  margin-left: 50px;
+  background-color: rgba(50, 115, 220, 0.3);
+  letter-spacing: 2px;
+  font-family: serif;
+}
